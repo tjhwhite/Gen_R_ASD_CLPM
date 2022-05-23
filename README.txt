@@ -20,3 +20,4 @@ The file named 'CLPM062021.R' contains the code for the cross-lagged panel model
 * Lines 1099-1655 contain the code of the CLPM for surface area and cortical thickness (mean and ROI's) and lines 1657-1839 contain the code of the CLPM for the surface area and cortical thickness ROI's corrected for mean surface area and mean cortical thickness respectively. 
 * Lines 1941-2972: the CLPM for the global brain measures. 
 * The file 'CLPMregionsAtlas.R' contains the code for the  sensitivity analysis in which all ROIs from the Desikan-Killiany atlas were included in the CLPMs. 
+
